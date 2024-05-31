@@ -4,9 +4,9 @@
 
 
 <div>
-    <picture><img src="img/sobre_mi.gif" width = 50px></picture><b> **Sobre mi**</b>
+    <picture><img src="img/sobre_mi.gif" width = 50px></picture><b> Sobre mi: </b>
     <div>
-       
+      
 
 Aquí están algunos puntos clave sobre mí:
 - **Aprendizaje continuo**: Me encanta aprender nuevas tecnologías y mejorar mis habilidades.
@@ -18,43 +18,33 @@ Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="ma
 </div>
 
 <div>
-    <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture><b> Skills</b>
+    <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"></picture><b> Skills:</b>
 
 
 <p align="center">
 
-- **Lenguajes**:
-    <br>
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,php" />
-   
+- **Lenguajes**:   
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,php"/>   
 <br>   
 
-- **Frameworks and Libraries**:
-<br>
-    <img src="https://skillicons.dev/icons?i=symfony,angular,bootstrap,jquery"/>
-    
+- **Frameworks and Libraries**:<br>
+    <img src="https://skillicons.dev/icons?i=symfony,angular,bootstrap,jquery"/>    
 <br>
 
-- **Cloud Hosting**:
-    
+- **Cloud Hosting**:    
     <img src="https://skillicons.dev/icons?i=wordpress"/>
-    <img src="img/logo-joomla.png" height="50" style="margin-left:0.3em; border-radius:0.5em"/>
-    
+    <img src="img/logo-joomla.png" height="50" style="margin-left:0.3em; border-radius:0.5em"/>    
 <br>
 
-- **Softwares and Tools**:
-<br>
+- **Softwares and Tools**:<br>
     <img src="https://skillicons.dev/icons?i=visualstudio,github,mysql" style="margin-right:0.4em"/>
     <img src="img/logo-netbeans.png" height="49" style="margin-right:0.3em"/>
-    <img src="img/logo-mariaDB.png" height="49" style="border-radius:0.5em"/>
-    
+    <img src="img/logo-mariaDB.png" height="49" style="border-radius:0.5em"/>   
 
 <br>
 
 </p>
 </div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -63,16 +53,11 @@ Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="ma
     <div>
         <h2 style="display: inline-block">Contáctame🤝</h2>  
     </div>
+    
+[<img src="img/linkedin.png" width="50" height="50" alt="LinkedIn">](https://www.linkedin.com/in/miguelangelolmopena)
+[<img src="img/github.png" width="50" height="50" alt="GitHub">](https://github.com/MiguelOlmoP)
     <div>
-        <a href="https://www.linkedin.com/in/miguelangelolmopena" style="text-decoration: none;">
-            <img align="center" src="img/linkedin.png" height="50"/>
-        </a>
-        <a href="https://github.com/MiguelOlmoP" >
-            <img align="center" src="img/github.png" height="50"/>
-        </a>
-    </div>
-    <div>
-        <a href="mailto:m.olmopena@gmail.com" style="text-decoration: none; color: black;"><b>m.olmopena@gmail.com</b></a>
+        <a href="mailto:m.olmopena@gmail.com" ><b>m.olmopena@gmail.com</b></a>
     </div>
        
 </div>

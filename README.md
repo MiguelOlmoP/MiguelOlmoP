@@ -13,7 +13,7 @@ Aquí están algunos puntos clave sobre mí:
 - **Trabajo en equipo**: Colaborar con otros profesionales me permite crecer y aportar mis conocimientos.
 - **Objetivos claros**: Siempre enfocado en cumplir y superar las metas propuestas.
 
-Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="mailto:m.olmopena@gmail.com" style="text-decoration: none; color: black;"><b>m.olmopena@gmail.com</b></a> ) o visitar mi perfil de <a href="https://www.linkedin.com/in/miguelangelolmopena">LinkedIn</a>.
+Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="mailto:m.olmopena@gmail.com" style="text-decoration: none; color: black;"><b>m.olmopena@gmail.com</b></a> ) o visitar mi perfil de <a href="https://www.linkedin.com/in/miguelangelolmopena"><b>LinkedIn</b></a>.
     </div>
 </div>
 

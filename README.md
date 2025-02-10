@@ -59,7 +59,13 @@ Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="ma
     <div>
         <a href="mailto:m.olmopena@gmail.com" ><b>m.olmopena@gmail.com</b></a>
     </div>
-       
+      
+</div>
+
+<br>
+<div align="center"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miguelolmop&theme=radical" height="170">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=miguelolmop&show_icons=true&theme=radical" height="170"> -->
 </div>
 
 

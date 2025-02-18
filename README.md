@@ -3,9 +3,9 @@
  <h1 align="center">Miguel Ángel Olmo Peña <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<div>
-    <picture><img src="img/sobre_mi.gif" width = 50px></picture><b> Sobre mi: </b>
-    <div>
+
+## <picture><img src="img/sobre_mi.gif" width = 50px></picture>  Sobre mi: 
+
       
 
 Aquí están algunos puntos clave sobre mí:
@@ -13,30 +13,30 @@ Aquí están algunos puntos clave sobre mí:
 - **Trabajo en equipo**: Colaborar con otros profesionales me permite crecer y aportar mis conocimientos.
 - **Objetivos claros**: Siempre enfocado en cumplir y superar las metas propuestas.
 
-Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="mailto:m.olmopena@gmail.com" style="text-decoration: none; color: black;"><b>m.olmopena@gmail.com</b></a> ) o visitar mi perfil de <a href="https://www.linkedin.com/in/miguelangelolmopena"><b>Linkedin</b></a>.
+Si deseas saber más sobre mí, no dudes en contactarme por correo ( <a href="mailto:m.olmopena@gmail.com" ><b>m.olmopena@gmail.com</b></a> ) o visitar mi perfil de <a href="https://www.linkedin.com/in/miguelangelolmopena"><b>Linkedin</b></a>.
     </div>
 </div>
 
-<div>
-    <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"></picture><b> Skills:</b>
 
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"></picture> Skills:
+<div>
 
 <p align="center">
 
-- **Lenguajes**:   
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,php"/>   
+- **Lenguajes:**   
+    <img src="https://skillicons.dev/icons?i=php,js,java,html,css"/>   
 <br>   
 
-- **Frameworks and Libraries**:<br>
-    <img src="https://skillicons.dev/icons?i=symfony,angular,bootstrap,jquery"/>    
+- **Frameworks and Libraries:**<br>
+    <img src="https://skillicons.dev/icons?i=laravel,symfony,react,angular,bootstrap,jquery"/>    
 <br>
 
-- **Cloud Hosting**:    
+- **Cloud Hosting:**    
     <img src="https://skillicons.dev/icons?i=wordpress"/>
     <img src="img/logo-joomla.png" height="50" style="margin-left:0.3em; border-radius:0.5em"/>    
 <br>
 
-- **Softwares and Tools**:<br>
+- **Softwares and Tools:**<br>
     <img src="https://skillicons.dev/icons?i=visualstudio,github,mysql" style="margin-right:0.4em"/>
     <img src="img/logo-netbeans.png" height="49" style="margin-right:0.3em"/>
     <img src="img/logo-mariaDB.png" height="49" style="border-radius:0.5em"/>   
